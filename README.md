@@ -1,8 +1,14 @@
 # Shenzhen-cup-mathematical-modeling-challenge
 
+## Solution framework
+
 ![image](https://user-images.githubusercontent.com/65102150/184111412-9d9b6cd4-9473-481c-b2a3-f15311d49ac5.png)
 
+## relevant link
+[Shenzhen-cup-mathematical-modeling-challenge](http://www.m2ct.org/modular-list.jsp?pageType=smxly&menuType=flowUp)
 
+[blog](https://blog.csdn.net/NP_hard/article/details/120346674)
+## introduction
 The pursuit and escape differential game problem not only plays an increasingly important role in modern military science and technology, but also can be used as an important case to test machine learning algorithms. Based on the theory of kinematics and optimization, this paper designs a reinforcement learning intelligent algorithm to solve the sheep dog chase and escape game problem.
 
 To solve the first problem, we need to establish an optimal containment strategy model for dogs. First of all, considering the goal of the dog, the dog hopes to successfully encircle the sheep, and when the distance between the dog and the sheep is minimized, the probability of successful encirclement is greater. Therefore, we list the kinematical equations of dog sheep in polar coordinates and express the distance between sheep and dog. Finally, based on the distance expression between sheep and dogs, the objective programming model of relative distance minimization is given.
